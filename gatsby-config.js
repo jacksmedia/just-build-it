@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Jacks.Media',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'The open source media revolution is here-- join us by building your own web app!',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -58,6 +58,14 @@ module.exports = {
           },
         ],
       },
+    },
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Fredericka the Great', 'Josefin Slab']
+        }
+      }
     },
     {
       resolve: 'gatsby-plugin-netlify-cms',
