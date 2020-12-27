@@ -12,6 +12,8 @@ tags:
   - netlify
   - aws
 ---
+![new lincoln high school](/img/new-lincoln-high-school.jpg)
+
 Of course you bought your domain on AWS, and of course you want to launch betas on that domain using Netlify's awesome pipeline. Comrades, it's not difficult but it's not as easy as it oughta be!
 
 For me, the biggest trick is to see thru the confusing labels on Netlify's panel, but ymmv--
