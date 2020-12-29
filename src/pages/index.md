@@ -1,21 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Serverless bespoke websites
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Packages to hire our team, Guides to build your own app
+subheading: React · Jamstack · AWS · WordPress · Sketch
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: What's Jacks Media?
+  description: A freelance design firm in the Pacific Northwest, we do what we
+    love-- build sleek user interfaces, delight our clients, teach and empower
+    others
+description: What's the Jamstack? A nifty way of pre-building websites and apps
+  so they load super fast and super consistently. The Jacks Media team has
+  worked in the Jamstack world since 2018, and recommends GatsbyJS as the best
+  toolbox currently available; we also prefer AWS over other clouds, for key
+  performance reasons.
 intro:
   blurbs:
     - image: /img/coffee.png
