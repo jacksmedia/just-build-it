@@ -1,19 +1,19 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: A little bit about our craft…
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Pre-built websites with GatsbyJS
+How many sizes and types of phones exists these days? How many kinds of devices might access your site? Using industry-proven tools like Gatsby, we create optimal versions of your site before launching to global endpoints: this guarantees it looks great on any screen and loads super fast.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Client control over content
+Whether they prefer a custom app or a WordPress site, our clients retain full control over their core site content at all times. Edits to vitals like business logos, pictures, contact info and addresses can be made by the owner, without any revisions to the code.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Accessibility and usability impact everyone
+Some people will view your site in ways you won't and some will listen to it with a screen reader. Jacks Media adds internal tags to your site content, ensuring nothing is lost with different types of access modes, and helps future-proof your site against tomorrow's tech.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Guides explain how to build and edit your own sites
+The open source software movement is shifting how our world communicates. Did you know you can publish and host your own blog, website, or even news aggregator for pennies a day? Our team lives and breathes this lifestyle, and we write guides to consolidate and share the knowledge.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Serverless backends, always
+AWS for production and Netlify for development leverages the best of these ecosystems. We can explain more during a free consult!
