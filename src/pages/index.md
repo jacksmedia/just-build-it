@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: Serverless bespoke websites
-image: /img/home-jumbotron.jpg
-heading: Packages to hire our team, Guides to build your own app
+image: /img/veterans-hospital-and-ohsu-crossing.jpg
+heading: Packages to hire our team, Guides to edit your own app
 subheading: React · Jamstack · AWS · WordPress · Sketch
 mainpitch:
   title: What's Jacks Media?
