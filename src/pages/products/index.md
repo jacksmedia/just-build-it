@@ -1,13 +1,11 @@
 ---
-heading: Great coffee with a conscience
+heading: Progressive Web Apps
 path: /products
 templateKey: product-page
-title: Our Coffee
-image: /img/jumbotron.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+title: Our Products
+image: /img/hawthorne-bridge-snow-test.jpg
+description: PWAs are websites that download to any phone or computer and work
+  while offline. This is why we build PWAs instead of traditional websites.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -44,12 +42,9 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Static prebuilds with mobile-first design
+  description: Static websites are pre-built before deployment, so they load for
+    your users as fast as possible. We consider all device sizes
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
