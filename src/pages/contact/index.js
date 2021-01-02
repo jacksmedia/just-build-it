@@ -58,7 +58,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    <span role="emoji">📇</span>⠀
+                    <span role="img" aria-label="emoji of index cards">📇</span>⠀
                     Your name?
                   </label>
                   <div className="control">
@@ -74,7 +74,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'email'}>
-                    <span role="emoji">📧</span>⠀
+                    <span role="img" aria-label="emoji of email">📧</span>⠀
                     Your biz email?
                   </label>
                   <div className="control">
@@ -90,7 +90,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    <span role="emoji">📝</span>⠀
+                    <span role="img" aria-label="emoji of paper and pencil">📝</span>⠀
                     How can we help you? Questions for us?
                   </label>
                   <div className="control">
@@ -105,7 +105,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="btn" type="submit">
-                    <span role="emoji">📨</span>⠀
+                    <span role="img" aria-label="emoji of inbox">📨</span>⠀
                     Send!
                   </button>
                 </div>
