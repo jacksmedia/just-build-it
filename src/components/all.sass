@@ -1,14 +1,14 @@
 @import "~bulma/sass/utilities/initial-variables"
 
-// Config vars
-// Jacks logo brand color: #B40D0D
-$jacks-red: #B40D0D
-$jacks-pink: salmon
-$jacks-red-invert: #fff
+$jacks-red: #b00
+$jacks-pink: lighten($jacks-red, 50%)
+$jacks-red-invert: complement($jacks-red)
+$jacks-red-dark-invert: darken($jacks-red-invert, 25%)
 
 $primary: $jacks-red
-$primary-invert: $jacks-red-invert
-$body-color: #333
+$primary-light: $jacks-pink
+$primary-invert: $jacks-red-dark-invert
+$body-color: $primary-invert
 $black: #0a0a0a
 
 .navbar .navbar-menu
@@ -54,18 +54,17 @@ $black: #0a0a0a
 
 .btn
     display: inline-block
-    padding: 12px 16px 10px
-    font-size: 18px
-    font-size: 1rem
-    line-height: 1.25
-    background-color: #fff
+    background-color: $primary-light
     border-radius: .25rem
-    text-decoration: none
-    font-weight: 700
-    color: #B40D0D
+    padding: 12px 16px 10px
     text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #B40D0D
-    box-shadow: inset 0 0 0 2px #b00
+    line-height: 1.25
+    color: $primary-invert
+    font-weight: 700
+    font-size: 3.3rem
+    text-decoration: none
+    -webkit-box-shadow: inset 0 0 0 2px $jacks-red
+    box-shadow: inset 0 0 0 2px $jacks-red
     -webkit-transition: all .45s ease
     transition: all .65s ease
 
@@ -115,7 +114,7 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: $primary-light;
 .blog-list-item header
   display: flex;
   margin-bottom: 1em;
