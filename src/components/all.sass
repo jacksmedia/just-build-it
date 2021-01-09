@@ -1,9 +1,12 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 $jacks-red: #b00
-$jacks-pink: lighten($jacks-red, 50%)
-$jacks-red-invert: complement($jacks-red)
+// $jacks-pink: lighten($jacks-red, 50%)
+$jacks-pink: #f44a
+// $jacks-red-invert: complement($jacks-red)
+$jacks-red-invert: lightseagreen
 $jacks-red-dark-invert: darken($jacks-red-invert, 25%)
+// $jacks-red-dark-invert: darkcyan
 
 $primary: $jacks-red
 $primary-light: $jacks-pink
@@ -61,7 +64,7 @@ $black: #0a0a0a
     line-height: 1.25
     color: $primary-invert
     font-weight: 700
-    font-size: 3.3rem
+    font-size: 2.3rem
     text-decoration: none
     -webkit-box-shadow: inset 0 0 0 2px $jacks-red
     box-shadow: inset 0 0 0 2px $jacks-red
@@ -114,13 +117,13 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: $primary-light;
+  background-color: $primary-light
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
+  display: flex
+  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  flex-basis: 35%
+  margin: 0 1.5em 0 0
 
 // typefaces (affects all templates)
 h1, h2, h3, h4, h5, h6, button, .btn, .navbar-item
@@ -140,12 +143,12 @@ p, li, span
 // responsiveness
 +tablet-only
   .blog-list-item .featured-thumbnail
-    flex-basis: 50%;
+    flex-basis: 50%
 
 +mobile
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
-    text-align: center;
-    max-width: 70%;
-    margin: 0 0 1em;
+    text-align: center
+    max-width: 70%
+    margin: 0 0 1em
