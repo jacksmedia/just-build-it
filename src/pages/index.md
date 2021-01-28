@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Serverless bespoke websites
-image: /img/veterans-hospital-and-ohsu-crossing.jpg
+image: /img/charles-bridge-and-praha-castle.jpg
 heading: Packages to hire our team, Guides to edit your own app
 subheading: React · Jamstack · AWS · WordPress · Sketch
 mainpitch:
