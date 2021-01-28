@@ -27,11 +27,9 @@ intro:
       text: Angling for a custom website experience and excited to describe it to us?
         Drop us a line!
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: Progressive Web Apps blur the boundary between websites and app
+    stores downloads. When your website lives on your customer's Home Screen,
+    conversion happen more often!
 main:
   heading: "Join the quality revolution "
   description: Open source software is built by artists, requiring passion-- it
