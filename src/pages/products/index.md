@@ -3,7 +3,7 @@ heading: Progressive Web Apps
 path: /products
 templateKey: product-page
 title: Our Products
-image: /img/hawthorne-bridge-snow-test.jpg
+image: /img/ziggy-walking-bridge.jpg
 description: PWAs are websites that download to any phone or computer and work
   while offline. This is why we build PWAs instead of traditional websites.
 intro:
@@ -15,24 +15,26 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
+    - image: /img/honey-run.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - image: /img/tutorials.png
+    - image: /img/columbia-gorge.jpg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/screen-shot-2020-12-08-at-23.53.21.png
+    - image: /img/flavor_wheel.jpg
       text: >-
         Need some charts?
 
         We have an infographics sandbox all ready for your data. 🏖📊
+
+        c0r0na.netlify.app
 
         Industry standards like PrimeReact and styled-components keep the UI clean and the beautiful.
   heading: What we offer
@@ -55,13 +57,11 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - author: Raja Afrika
+    quote: I would recommend Jacks to anyone that needs web design, web programming or Marijuana Software API help.
+  - author: Lydia Blackwood
+    quote: Jacks did amazing work on our website and is a great value.
+full_image: /img/charles-bridge-and-praha-castle.jpg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose

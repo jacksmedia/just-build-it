@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: we've all seen the classic dummy text but what does it say
 date: 2020-02-01T14:44:41.141Z
-description: you thought it was just jumbled nonsense that looks like a s boring pellbook, right?
+description: Lorem Ipsum... you thought it was just jumbled nonsense that looks like a spellbook, right?
 featuredpost: true
-featuredimage: /img/screen-shot-2020-12-29-at-1.46.07-pm.png
+featuredimage: /img/crayola96-by-2.png
 tags:
   - loremipsum
 ---

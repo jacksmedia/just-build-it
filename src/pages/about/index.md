@@ -12,8 +12,5 @@ Whether they prefer a custom app or a WordPress site, our clients retain full co
 ### Accessibility and usability impact everyone
 Some people will view your site in ways you won't and some will listen to it with a screen reader. Jacks Media adds internal tags to your site content, ensuring nothing is lost with different types of access modes, and helps future-proof your site against tomorrow's tech.
 
-### Guides explain how to build and edit your own sites
-The open source software movement is shifting how our world communicates. Did you know you can publish and host your own blog, website, or even news aggregator for pennies a day? Our team lives and breathes this lifestyle, and we write guides to consolidate and share the knowledge.
-
 ### Serverless backends, always
 AWS for production and Netlify for development leverages the best of these ecosystems. We can explain more during a free consult!
