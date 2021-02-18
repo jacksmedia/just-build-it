@@ -115,6 +115,22 @@ $menu-label-color: $white-ter
     vertical-align: middle
     display: inline
 
+// hecka especial 404 page styling
+.especial-404-bg
+  background: url(../../static/img/404.png)
+  height: auto
+  width: 100%
+  min-height: 100%
+  min-width: 1024px
+  display: flex
+  align-items: center
+  justify-content: center
+
+@media screen and (max-width: 1024px) // just for this image, for fullscreen
+  .especial-404-bg
+    left: 50%
+    margin-left: -512px   // 50%
+
 // blog roll
 .blog-list-item.is-featured
   background-color: $primary-light

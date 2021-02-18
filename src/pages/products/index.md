@@ -10,11 +10,9 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Lorem
+        Ipsum
+        Etc
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -23,18 +21,16 @@ intro:
         to fall in love with in our shop.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Lorem
+        Ipsum
+        Etc
     - image: /img/screen-shot-2020-12-08-at-23.53.21.png
       text: >-
         Need some charts?
 
         We have an infographics sandbox all ready for your data. 🏖📊
 
-        Industry standards like PrimeReact and styled-components keep the UI clean and the beautiful.
+        Industry standards like PrimeReact and styled-components keep the UI clean and the UX beautiful.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
