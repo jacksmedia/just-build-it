@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
-title: we've all seen the classic dummy text but what does it say
-date: 2020-02-01T14:44:41.141Z
-description: Lorem Ipsum... you thought it was just jumbled nonsense that looks like a spellbook, right?
+title: "we've all seen the classic dummy text, but what does it say? "
+date: 2021-02-02T00:35:26.928Z
+description: '"Lorem ipsum..." that jumbled Latin that we see in mocked-up apps
+  and websites-- is it just nonense, or does it translate to something?'
 featuredpost: true
-featuredimage: /img/crayola96-by-2.png
+featuredimage: /img/charles-bridge-and-praha-castle.jpg
 tags:
   - loremipsum
 ---

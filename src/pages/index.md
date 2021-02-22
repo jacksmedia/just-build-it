@@ -3,7 +3,7 @@ templateKey: index-page
 title: Modern bespoke apps and websites
 image: /img/eastside-esplanade-and-moda-ctr.jpg
 heading: Packages to hire our team, Guides to edit your site or app
-subheading: React · Jamstack · AWS · WordPress · Sketch
+subheading: PWA · React · Jamstack · WordPress · Sketch· AWS
 mainpitch:
   title: What's Jacks Media?
   description: A freelance design firm in the Pacific Northwest, we do what we
@@ -41,10 +41,19 @@ intro:
     Thing will clear up soon, so stay tuned to this page. Bookmark us?
 main:
   heading: Modern web experiences, mobile-first layout
-  description: >
-    Yet more dummy text!
-    6767676767676767676767
-    Thing will clear up soon, so stay tuned to this page. Bookmark us?
+    - image: /img/coffee.png
+      text: Need API data built into a custom app?
+    - image: /img/coffee-gear.png
+      text: Need an overhaul of your WordPress, Joomla or other CMS site?
+    - image: /img/tutorials.png
+      text: Eager to learn and ready to build? Check out our open-source, DIY
+        entrepreneur guides
+    - image: /img/meeting-space.png
+      text: Angling for a custom website experience and excited to describe it to us?
+        Drop us a line!
+  description: Progressive Web Apps blur the boundary between websites and app
+    stores downloads. When your website lives on your customer's Home Screen,
+    conversion happen more often!
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/ziggy-walking-bridge.jpg
